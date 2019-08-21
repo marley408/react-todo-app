@@ -1,1 +1,43 @@
+.App {
+  background-color: black;
+  padding: 2em;
+}
 
+.todo-container {
+  background-color: rgb(32, 31, 31);
+  min-height: 90vh;
+  border-radius: 1em;
+  padding: 0.2em;
+  margin-top: 2em;
+  border-color: whitesmoke;
+  border-style: solid;
+}
+
+.form-buttons {
+  width: 100%;
+  border-radius: 1em;
+}
+
+.form-container {
+  padding: 1em 1em;
+  margin-bottom: 0.2em;
+  background-color: aquamarine;
+  border-radius: 0.5em;
+}
+
+.add-button {
+  margin-bottom: 0.5em;
+}
+
+.form {
+  padding: 2em;
+  border-radius: 1em;
+}
+
+.delete-button {
+}
+
+.list-container {
+  overflow: auto;
+  height: 500px;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marley408/react-todo-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marley408/react-todo-app/issues"
+  },
+  "homepage": "https://github.com/marley408/react-todo-app#readme",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
