@@ -1,6 +1,6 @@
 .App {
   background-color: black;
-  padding: 2em;
+  padding: 1em 3em;
 }
 
 .todo-container {
@@ -32,9 +32,6 @@
 .form {
   padding: 2em;
   border-radius: 1em;
-}
-
-.delete-button {
 }
 
 .list-container {
